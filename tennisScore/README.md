@@ -2,6 +2,12 @@
 
 This Kata is about implementing a simple tennis game score. 
 
+# Getting started
+
+You need [groovy](http://groovy-lang.org/download.html) to run TennisScore.groovy as a script.
+
+# Rules
+
 The scoring system is rather simple:
 
 1. Each player can have either of these points in one game 0 15 30 40
