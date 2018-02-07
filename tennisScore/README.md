@@ -4,7 +4,7 @@ This Kata is about implementing a simple tennis game score.
 
 ## Getting started
 
-You need [groovy](http://groovy-lang.org/download.html) to run TennisScore.groovy as a script.
+You will need [groovy](http://groovy-lang.org/download.html) to run TennisScore.groovy as a script.
 
 ## Rules
 
