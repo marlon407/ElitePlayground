@@ -1,4 +1,4 @@
-#Escolhendo um pizza
+# Escolhendo um pizza
 
 Em algumas empresas de desenvolvimento de software é comum, quando o prazo de entrega de uma aplicação está próximo, a equipe passar algumas noites trabalhando. E como todo desenvolvedor também precisa se alimentar, eles sempre pedem pizza nessas ocasiões. Só que sempre é uma briga para conseguir escolher os sabores das pizza de sabores que todos gostam.
 
@@ -17,3 +17,4 @@ Tino = { Marguerita : 1, Quatro queijos : 5, Escarola : 1, Portuguesa : 4, Frang
 Luca = { Marguerita : 5, Quatro queijos : 4, Escarola : 3, Portuguesa : 4, Frango+Catupiry : 3, Napolitana : 2 }
 
 Fonte: http://dojopuzzles.com/problemas/exibe/escolhendo-uma-pizza/
+
