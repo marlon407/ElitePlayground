@@ -18,3 +18,4 @@ Luca = { Marguerita : 5, Quatro queijos : 4, Escarola : 3, Portuguesa : 4, Frang
 
 Fonte: http://dojopuzzles.com/problemas/exibe/escolhendo-uma-pizza/
 
+![dev team](https://github.com/marlon407/ElitePlayground/blob/master/tinderForPizza/devs-2018-04-05.jpg)
